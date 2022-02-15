@@ -120,6 +120,7 @@ p.setBackground(Color.white);
 f.add(p);
 f.setSize(200, 220);
 f.show();
+//f.setVisible(boolean b);
 }
 public void actionPerformed(ActionEvent e){
 
