@@ -19,9 +19,9 @@ Java is a high-level, class-based, object-oriented programming language
 
 [Doubly Linked List](https://github.com/004Ajay/Java/blob/main/To%20complete/DoublyLinkedList.java)
 
-[Try Catch THROW](https://github.com/004Ajay/Java/blob/main/TryCatchTHROW.java)
+[Exceptions 1 - Try Catch THROW](https://github.com/004Ajay/Java/blob/main/TryCatchTHROW.java)
 
-[Try Catch FINALLY](https://github.com/004Ajay/Java/blob/main/TryCatchFINALLY.java)
+[Exceptions 2 - Try Catch FINALLY](https://github.com/004Ajay/Java/blob/main/TryCatchFINALLY.java)
 
 [Matrix Multiplication](https://github.com/004Ajay/Java/blob/main/MatMultiply.java)
 
