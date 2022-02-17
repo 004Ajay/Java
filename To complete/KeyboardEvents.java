@@ -4,10 +4,10 @@ Write a Java program for handling key events
 
 import java.awt.*;    
 import java.awt.event.*;    
-public class KeyEvents extends Frame implements KeyListener {
+public class KeyboardEvents extends Frame implements KeyListener {
 	 Label l;    
 	 TextArea area;    
-     KeyEvents() {    
+     KeyboardEvents() {    
 	        l = new Label();   
 	        l.setBounds (20, 50, 100, 20);    
 	        area = new TextArea();    
@@ -38,6 +38,6 @@ public class KeyEvents extends Frame implements KeyListener {
 	        System.out.println("key typed.");
 	    }    
 	public static void main(String[] args) {
-		 new KeyEvents();
+		 new KeyboardEvents();
 		}
 }
