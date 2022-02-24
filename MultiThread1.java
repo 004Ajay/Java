@@ -37,15 +37,15 @@ public class MultiThread1 {
 		Scanner scan = new Scanner(System.in);
 		Multiply multiple = new Multiply();
 		
-		System.out.println("Enter the table you want to run by thread1: ");
+		System.out.print("Enter the table you want to run by thread1: ");
 		int num = scan.nextInt();
 		Table table1 = new Table(multiple, num);
 		
-		System.out.println("Enter the table you want to run by thread1: ");
+		System.out.print("Enter the table you want to run by thread1: ");
 		num = scan.nextInt();
 		Table table2 = new Table(multiple, num);
 		
-		System.out.println("Enter the table you want to run by thread1: ");
+		System.out.print("Enter the table you want to run by thread1: ");
 		num = scan.nextInt();
 		Table table3 = new Table(multiple, num);
 		

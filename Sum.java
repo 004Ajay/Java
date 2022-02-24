@@ -4,7 +4,7 @@
 		public static void main(String[] args) {
 			int num1, num2;
 			Scanner scan=new Scanner(System.in);
-			System.out.println("Enter two number: ");
+			System.out.print("Enter two number: ");
 			num1 = scan.nextInt(); //getting num1
 			num2 = scan.nextInt(); //getting num2
 			

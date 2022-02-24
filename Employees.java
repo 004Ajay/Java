@@ -14,15 +14,15 @@ class Employeer{
   int age, salary;
   void GetDetails(){
   Scanner  scan = new Scanner(System.in);
-		System.out.println("\nEnter name: ");
+		System.out.print("\nEnter name: ");
 		name = scan.next();
-		System.out.println("\nEnter age: ");
+		System.out.print("\nEnter age: ");
 		age = scan.nextInt();
-		System.out.println("\nEnter phone number: ");
+		System.out.print("\nEnter phone number: ");
 		PhoneNumber = scan.next();
-		System.out.println("\nEnter address: ");
+		System.out.print("\nEnter address: ");
 		address = scan.next();
-		System.out.println("\nEnter salary: ");
+		System.out.print("\nEnter salary: ");
 		salary = scan.nextInt();
 		scan.close();
         }

@@ -18,11 +18,11 @@ public class FileProgram2{
 	try{
 	 FileOutputStream fileOut = new FileOutputStream("new2.txt",true);
 	 BufferedReader buff = new BufferedReader(new InputStreamReader(System.in));
-	 System.out.println("Enter Data:");
+	 System.out.print("Enter Data: ");
 	 String s = buff.readLine();
 	 byte[] arr = s.getBytes();
 	 fileOut.write(arr);
-	    System.out.println("Data Added");
+	    System.out.print("Data Added: ");
 	 fileOut.close();
 	 }
 	catch(Exception e){
