@@ -119,8 +119,8 @@ p.setBackground(Color.white);
 // add panel to frame
 f.add(p);
 f.setSize(200, 220);
-f.show();
-//f.setVisible(boolean b);
+//f.show();
+f.setVisible(true);
 }
 public void actionPerformed(ActionEvent e){
 

@@ -2,7 +2,7 @@
 Write a Java program that implements Quick sort algorithm for sorting a list of names in ascending order
 */
 
-public class QuickSort{  
+public class QuickSortNumbers{  
 int partition (int a[], int start, int end)  
 {  
     int pivot = a[end]; // pivot element  
@@ -47,7 +47,7 @@ void printArr(int a[], int n)
     int a[] = { 13, 18, 27, 2, 19, 25 };  
     int n = a.length;  
     System.out.println("\nBefore sorting array elements are - ");  
-    QuickSort q1 = new QuickSort();  
+    QuickSortNumbers q1 = new QuickSortNumbers();  
     q1.printArr(a, n);  
     q1.quick(a, 0, n - 1);  
     System.out.println("\nAfter sorting array elements are - ");  
