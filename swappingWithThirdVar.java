@@ -1,5 +1,5 @@
 	import java.util.Scanner;
-	public class swapping {
+	public class swappingWithThirdVar {
 
 		public static void main(String[] args) {
 			int num1, num2, temp;

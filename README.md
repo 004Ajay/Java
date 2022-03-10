@@ -1,58 +1,88 @@
 # Java Programs
+[<p align="center">
+<img src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png" height='100'></p>](https://www.google.com/search?q=java&oq=java&aqs=chrome..69i57j69i59l3j69i60j69i65j69i60l2.1810j0j7&sourceid=chrome&ie=UTF-8)
 
-Java is a high-level, class-based, object-oriented programming language
+Java is a high-level, class-based, object-oriented programming language. 
+
+This repository items are separated wrt to it's DS & alphabetically arranged.
 
 ---
-### List of Programs in this repository with their Links:
+## FILE HANDLING
 
-[Swapping](https://github.com/004Ajay/Java/blob/main/swapping.java)
+[Line of Text](https://github.com/004Ajay/Java/blob/main/FileProgram2.java) 
 
-[HelloWorld](https://github.com/004Ajay/Java/blob/main/HelloWorld.java)
+[Read/Write integers(buffered reader/writer)](https://github.com/004Ajay/Java/blob/main/FileProgram4.java) 
 
-[Mouse Event](https://github.com/004Ajay/Java/blob/main/To%20complete/MouseEvent.java)
+[Read/Write n numbers](https://github.com/004Ajay/Java/blob/main/FileProgram1.java) 
 
-[Sum of numbers](https://github.com/004Ajay/Java/blob/main/Sum.java)
+[Read/Write text content(buffered reader/writer)](https://github.com/004Ajay/Java/blob/main/FileProgram3.java) 
 
-[String Reversing ](https://github.com/004Ajay/Java/blob/main/StringRev.java)
+---
 
-[Matrix Transpose](https://github.com/004Ajay/Java/blob/main/MatrixTranspose.java)
+## MULTI-THREADING
 
-[Doubly Linked List](https://github.com/004Ajay/Java/blob/main/To%20complete/DoublyLinkedList.java)
+[Five consecutive integers](https://github.com/004Ajay/Java/blob/main/MultiThread2.java) 
 
-[Exceptions 1 - Try Catch THROW](https://github.com/004Ajay/Java/blob/main/TryCatchTHROW.java)
+[Multiplication Table](https://github.com/004Ajay/Java/blob/main/MultiThread1.java) 
 
-[Exceptions 2 - Try Catch FINALLY](https://github.com/004Ajay/Java/blob/main/TryCatchFINALLY.java)
+[Suspend & Resume method](https://github.com/004Ajay/Java/blob/main/MultiThread3.java) 
 
-[Matrix Multiplication](https://github.com/004Ajay/Java/blob/main/MatMultiply.java)
+---
 
-[Interface Inheritance](https://github.com/004Ajay/Java/blob/main/InterfaceInheritance.java)
+## INHERITANCE
 
-[Largest Of Three Nums](https://github.com/004Ajay/Java/blob/main/LargestOfThreeNums.java)
+[Employees](https://github.com/004Ajay/Java/blob/main/Employees.java) 
 
-[Number is Odd or Even ](https://github.com/004Ajay/Java/blob/main/OddEven.java)
+[Engineer & Employee](https://github.com/004Ajay/Java/blob/main/EngineerEmployee.java) 
 
-[Palindrome of a Number](https://github.com/004Ajay/Java/blob/main/NumPalindrome.java)
+---
 
-[2nd Smallest Element in an Array](https://github.com/004Ajay/Java/blob/main/Array2ndSmallest.java)
+## EXCEPTION HANDLING
 
-[A character is a Vowel Or Consonant](https://github.com/004Ajay/Java/blob/main/VowelsOrConsonants.java)
+[Try Catch FINALLY](https://github.com/004Ajay/Java/blob/main/TryCatchFINALLY.java) 
 
-[Abstract Class- Number of Sides of different Shapes](https://github.com/004Ajay/Java/blob/main/AbstractShapeSides.java)
+[Try Catch THROW](https://github.com/004Ajay/Java/blob/main/TryCatchTHROW.java) 
 
-[Multi-Threading 1 - Multiplication table of 3 integers using thread synchronization](https://github.com/004Ajay/Java/blob/main/MultiThread1.java)
+---
 
-[Multi-Threading 2 -  Displays five consecutive integers & five consecutive characters using join method](https://github.com/004Ajay/Java/blob/main/To%20complete/MultiThread2.java)
+## EVENT HANDLING
 
-[Multi-Threading 3 - The implementation of suspend method & resume method using multithreading](https://github.com/004Ajay/Java/blob/main/To%20complete/MultiThread3.java)
+[Keyboard Events](https://github.com/004Ajay/Java/blob/main/KeyboardEvents.java) 
 
-[FileProgram 1 - Enter n numbers from keyboard to a file using FileOutputStream class & displaying the contents from txt using FileInputStream class](https://github.com/004Ajay/Java/blob/main/FileProgram1.java)
+[Mouse Events](https://github.com/004Ajay/Java/blob/main/MouseEvents.java) 
 
-[FileProgram 2 - Read LINE OF TEXT from a file & write the same to file using FileOutputStream & FileInputStream by handling all file related exceptions](https://github.com/004Ajay/Java/blob/main/FileProgram2.java)
+---
 
-[FileProgram 3 - Read & write text content with reader/writer](https://github.com/004Ajay/Java/blob/main/FileProgram3.java)
+## JAVA SWING
 
-[FileProgram 4 - Read a line of integers & then displays each integer](https://github.com/004Ajay/Java/blob/main/FileProgram4.java)
+[Calculator](https://github.com/004Ajay/Java/blob/main/calculator.java) 
 
-[Inheritance Employees & Manager - Java program which creates a class named 'Employee' having the following members: Name, Age, Phone number, Address, Salary. It also has a method named 'printSalary( )' which prints the salary of the Employee. Two classes 'Officer' and 'Manager' inherits the 'Employee' class. The 'Officer' and 'Manager' classes have data members 'specialization' and 'department' respectively. Now, assign name, age, phone number, address and salary to an officer and a manager by making an object of both of these classes and print the same](https://github.com/004Ajay/Java/blob/main/Employees.java)
+[Traffic Light](https://github.com/004Ajay/Java/blob/main/TrafficLight.java) 
 
-[Inheritance Engineer & Employee - Java program which creates two classes Employee and Engineer. Engineer should inherit from Employee class. Employee class to have two methods display() and calcSalary(), on which Gross Salary of employee is calculated using user inputs and display the engineer salary from engineer class(twice of salary of employee), Employee class using a single object instantiation (i.e., only one object creation is allowed). display() only prints the name of the class and does not return any value. Ex. Name of class is Employee. calcSalary() in Employee displays- Salary of employee is 10000 and calcSalary() in Engineer displays Salary of Engineer as twice of salary of employee](https://github.com/004Ajay/Java/blob/main/EngineerEmployee.java)
+---
+
+## INTERFACE
+
+[Interface Inheritance](https://github.com/004Ajay/Java/blob/main/InterfaceInheritance.java) 
+
+---
+
+## ABSTRACTION
+
+[Abstract Shape's Sides](https://github.com/004Ajay/Java/blob/main/AbstractShapeSides.java) 
+
+---
+
+## LIST
+
+[Doubly LinkedList](https://github.com/004Ajay/Java/blob/main/DoublyLinkedList.java) 
+
+---
+
+## NOT READY
+
+[POLYMORPHISM](https://github.com/004Ajay)
+
+[ENCAPSULATION](https://github.com/004Ajay)
+
+---
