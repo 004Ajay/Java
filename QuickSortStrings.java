@@ -1,3 +1,7 @@
+/*
+Write a Java program that implements Quick sort algorithm for sorting a list of names in ascending order
+*/
+
 import java.util.Scanner;
 public class QuickSortStrings{
 public static void main(String[] args){

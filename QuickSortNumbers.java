@@ -1,5 +1,5 @@
 /*
-Write a Java program that implements Quick sort algorithm for sorting a list of names in ascending order
+Write a Java program that implements Quick sort algorithm for sorting a list of numbers in ascending order
 */
 
 public class QuickSortNumbers{  
