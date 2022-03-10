@@ -43,7 +43,11 @@ public class DoublyLinkedList {
             //As it is last node, tail's next will point to null  
             tail.next = null;  
         }  
-    }  
+    }
+    
+    public void deleteNode() {
+        head = head.next;
+   }
   
     //display() will print out the nodes of the list  
     public void display() {  
@@ -53,7 +57,6 @@ public class DoublyLinkedList {
             System.out.println("List is empty");  
             return;  
         }  
-        System.out.println("Nodes of doubly linked list: ");  
         while(current != null) {  
             //Prints each node by incrementing the pointer.  
   
@@ -71,8 +74,13 @@ public class DoublyLinkedList {
         dList.addNode(3);  
         dList.addNode(4);  
         dList.addNode(5);  
-  
-        //Displays the nodes present in the list  
+
+        System.out.print("Nodes of list: ");
         dList.display();  
+
+        dList.deleteNode();
+        
+        System.out.print("\nNodes of list after deletion: ");
+        dList.display(); 
     }  
 }  
