@@ -2,7 +2,6 @@
 <img src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png" height='200'></p>](https://www.google.com/search?q=java&oq=java&aqs=chrome..69i57j69i59l3j69i60j69i65j69i60l2.1810j0j7&sourceid=chrome&ie=UTF-8)
 
 # JAVA Programming
-
 Java is a high-level, class-based, object-oriented programming language. 
 
 This repository items are separated wrt to it's DS & alphabetically arranged.
