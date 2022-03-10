@@ -7,6 +7,43 @@ Java is a high-level, class-based, object-oriented programming language.
 This repository items are separated wrt to it's DS & alphabetically arranged.
 
 ---
+## BASICS
+[Character Frequency](https://github.com/004Ajay/Java/blob/main/CharacterFreq.java)
+
+[Hello World](https://github.com/004Ajay/Java/blob/main/HelloWorld.java) 
+
+[Largest of Three Numbers](https://github.com/004Ajay/Java/blob/main/LargestOfThreeNums.java) 
+[Matrix Multiply](https://github.com/004Ajay/Java/blob/main/MatMultiply.java) 
+
+[Matrix Transpose](https://github.com/004Ajay/Java/blob/main/MatrixTranspose.java) 
+
+[Method Overloading](https://github.com/004Ajay/Java/blob/main/MethodOverloading.java)
+
+[Number Palindrome](https://github.com/004Ajay/Java/blob/main/NumPalindrome.java) 
+
+[Odd or Even Number](https://github.com/004Ajay/Java/blob/main/OddEven.java) 
+
+[Quick Sort on Numbers](https://github.com/004Ajay/Java/blob/main/QuickSortNumbers.java)
+
+[Quick Sort on Strings](https://github.com/004Ajay/Java/blob/main/QuickSortStrings.java)
+
+[Second smallest element in an Array](https://github.com/004Ajay/Java/blob/main/Array2ndSmallest.java) 
+
+[String Frequency](https://github.com/004Ajay/Java/blob/main/StringFreq.java)
+
+[String Palindrome](https://github.com/004Ajay/Java/blob/main/StringPalindrome.java)
+
+[String Reversing](https://github.com/004Ajay/Java/blob/main/StringRev.java)
+
+[Sum of two numbers](https://github.com/004Ajay/Java/blob/main/Sum.java)
+
+[Swapping with third variable](https://github.com/004Ajay/Java/blob/main/swappingWithThirdVar.java)
+
+[Swapping without third variable](https://github.com/004Ajay/Java/blob/main/swappingWithoutThirdVar.java)
+
+[Vowels or Consonants](https://github.com/004Ajay/Java/blob/main/VowelsOrConsonants.java)
+
+---
 ## FILE HANDLING
 
 [Line of Text](https://github.com/004Ajay/Java/blob/main/FileProgram2.java) 
